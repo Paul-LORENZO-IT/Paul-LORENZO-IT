@@ -20,7 +20,7 @@ I'm now building the technical side in public, lab after lab.
 | **Cloud** | Azure (Entra ID, RBAC), AWS IAM |
 | **Virtualization** | VirtualBox, Proxmox next |
 
-➡️ My IAM labs: [`iam-labs`](https://github.com/Paul-LORENZO-IT/iam-labs)
+➡️ My Systems, Networks & IAM labs: [`IT-labs`](https://github.com/Paul-LORENZO-IT/IT-labs)
 
 ## 📜 Certifications & badges
 
