@@ -6,7 +6,7 @@ I'm now building the technical side in public, lab after lab.
 
 ## 🎯 Where I am
 
-- 🎓 Studying **Cybersecurity Expert – Secure Infrastructure Administrator** (French RNCP level 6, EQF 6), since October 2026
+- 🎓 Studying IT Systems and Networks Administrator – Infrastructure Support Technician (French RNCP level 5, EQF 5)
 - 🧭 Path: IT support / infrastructure admin → cloud admin → **IAM / cloud security**
 - 🌍 Languages: French · English (B2) · Spanish (B2)
 - 📍 Based in France, **targeting roles in Spain**
@@ -40,7 +40,7 @@ Google IT Support · TryHackMe Pre Security · Cisco Networking Technician Path 
 
 ## 🤝 What I'm looking for
 
-An **end-of-studies internship (5 April – 15 June 2027) in Barcelona**, on infrastructure, systems administration or IAM work.
+An **end-of-studies internship ( 18 April – 18 October 2027) in Barcelona**, on support N2, infrastructure, systems administration.
 Longer term: a junior role in Spain on an infrastructure, cloud or IAM team.
 
 📫 [LinkedIn](https://linkedin.com/in/) · lorenzopaul@hotmail.fr
